@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nozipho97
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C# and Azure fundamentals
+- 💞️ I’m looking to collaborate with anyone who is interested and who is upskilling themselves just like me.
 - 📫 How to reach me at mayilanozipho@gmail.com
 
 <!---
